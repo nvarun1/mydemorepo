@@ -1,2 +1,2 @@
 # mydemorepo
-This is my repoitory.
+This is my demo repoitory.
